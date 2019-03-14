@@ -259,3 +259,9 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Reddit Chatbot/2015-01.db
+/Reddit Chatbot/train.to
+/Reddit Chatbot/train.from
+/Reddit Chatbot/test.to
+/Reddit Chatbot/test.from
+/Reddit Chatbot/2.db
